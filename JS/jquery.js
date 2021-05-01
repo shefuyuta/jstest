@@ -1,1 +1,1 @@
-alert($("h1").text());
+alert($("test").text());
