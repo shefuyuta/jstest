@@ -1,6 +1,6 @@
 
 
-alert($("#testalert").click(function(){
+$("#testalert").click(function(){
   swal({
     title: "test alert is generated",
     text: "Can you see this?",
@@ -10,8 +10,8 @@ alert($("#testalert").click(function(){
   });
 });
 
-$("#testalert").trigger("click");
 
-$("testalert").click(function(){
+
+$("testalert").on("click", function(){
   alert("Can you see this?");
 });
