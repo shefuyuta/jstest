@@ -1,4 +1,6 @@
-alert($("#testalert").click(function(){
+
+
+alert($("#testalert").on("click", function(){
   swal({
     title: "test alert is generated",
     text: "Can you see this?",
