@@ -33,8 +33,9 @@ margin-bottom: 5px;
 .move:hover{opacity: 1;}
 
 .mainmenu li{
-list-style: none;
-width:calc(100% / 3);
+  list-style: none;
+  width:calc(100% / 3);
+  text-align: center;
 }
 
 .mainmenu a{
