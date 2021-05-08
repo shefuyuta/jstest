@@ -9,3 +9,7 @@ alert($("#testalert").on("click", function(){
     icon: "success"
   });
 });
+
+$("testalert").click(function(){
+  alert("Can you see this?");
+})
