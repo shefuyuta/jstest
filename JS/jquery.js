@@ -14,4 +14,4 @@ $("#testalert").trigger("click");
 
 $("testalert").click(function(){
   alert("Can you see this?");
-})
+});
