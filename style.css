@@ -5,15 +5,24 @@ a{text-decoration: none;}
 .container{
   min-height: 80%;
 }
+
+.mainmenuunderline{
+  height: 2px;
+  background-color: white;
+  opacity: 0.4;
+}
+.menu{
+border-bottom-width: 2px;
+border-bottom-color: white;
+}
 .mainmenu{
 display: flex;
 justify-content: space-around;
 flex-direction: row;
 font-size: 1.5em;
 font-weight: bold;
-border-bottom-width: 2px;
-border-bottom-color: white;
 }
+
 .mainmenu li{
 list-style: none;
 }
