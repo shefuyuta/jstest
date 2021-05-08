@@ -25,7 +25,7 @@ margin-bottom: 5px;
 }
 
 .currentpage{
-  margin-bottom: -6px;
+  margin-bottom: -6.5px;
   border-bottom: 1.5px solid white;
 }
 
@@ -40,7 +40,6 @@ margin-bottom: 5px;
 
 .mainmenu a{
   color: white;
-  text-align: center;
 }
 .title a {
   color: white;
@@ -64,6 +63,6 @@ margin-bottom: 5px;
 }
 #testalert:hover {
   border-width: 15px;
-  height: 90px;
-  width: 90px;
+  height: 80px;
+  width: 80px;
 }
