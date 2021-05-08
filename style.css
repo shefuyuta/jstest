@@ -5,8 +5,9 @@ body{}
 font-size: 1.5em;
 font-weight: bold;
 }
-.mainmenu a{
+.mainmenu li{
+color: black;
 text-decoration: none;
-display: inline-block;
+display: inline;
 list-style: none;
 }
