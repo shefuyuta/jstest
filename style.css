@@ -2,8 +2,10 @@ html {}
 body{}
 .container{}
 .mainmenu{
-font-size: 2em;
+font-size: 1.5em;
 font-weight: bold;
+}
+.mainmenu a{
 text-decoration: none;
 display: inline-block;
 list-style: none;
