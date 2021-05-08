@@ -1,4 +1,3 @@
-$alert("#testalert").text("test");
 
 $("#testalert").click(function(){
   swal({
