@@ -5,6 +5,6 @@ $("#testalert").click(function(){
     text: "Can you see this?",
     confirmButtonColor: "#DD6B55",
     confirmButtonText: "Yep.",
-    type: "info"
+    type: "success"
   });
 });
