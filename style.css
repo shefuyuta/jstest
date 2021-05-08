@@ -1,9 +1,12 @@
 html {height: 100%;}
-body{background-color: rgb(40, 40, 40);}
+body{
+  height: inherit;
+  background-color: rgb(40, 40, 40);
+}
 
 a{text-decoration: none;}
+
 .container{
-  min-height: 80%;
 }
 
 .mainmenuunderline{
