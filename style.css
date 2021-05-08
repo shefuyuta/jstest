@@ -25,9 +25,11 @@ margin-bottom: 5px;
 }
 
 .currentpage{
-  border-bottom-width: 2px;
-  border-bottom-color: white;
+  padding-bottom: 5px;
+  border-bottom: 2px solid white;
 }
+
+.move{opacity: 0.4;}
 
 .mainmenu li{
 list-style: none;
