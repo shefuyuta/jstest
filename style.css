@@ -6,10 +6,13 @@ font-size: 1.5em;
 font-weight: bold;
 }
 .mainmenu li{
-color: white;
 text-decoration: none;
 display: inline;
 list-style: none;
+}
+
+.mainmenu a{
+  color: white;
 }
 
 #testalert {
