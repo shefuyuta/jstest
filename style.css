@@ -1,0 +1,10 @@
+html {}
+body{}
+.container{}
+.mainmenu{
+font-size: 2em;
+font-weight: bold;
+text-decoration: none;
+display: inline-block;
+list-style: none;
+}
