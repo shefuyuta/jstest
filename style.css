@@ -30,9 +30,11 @@ margin-bottom: 5px;
 }
 
 .move{opacity: 0.6;}
+.move:hover{opacity: 1;}
 
 .mainmenu li{
 list-style: none;
+width:auto;
 }
 
 .mainmenu a{
