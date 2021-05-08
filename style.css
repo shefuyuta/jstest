@@ -1,5 +1,7 @@
 html {}
-body{background-color: rgb(10, 10, 10);}
+body{background-color: rgb(40, 40, 40);}
+
+a{text-decoration: none;}
 .container{}
 .mainmenu{
 font-size: 1.5em;
@@ -11,7 +13,6 @@ list-style: none;
 }
 
 .mainmenu a{
-  text-decoration: none;
   color: white;
 }
 .title a {
@@ -23,16 +24,17 @@ list-style: none;
   width: 100px;
   background-color: rgb(200, 200, 200);
   border-radius:50%;
-  border: 2px;
+  border-width: 2px;
   border-color: white;
   color: white;
+  text-align: center;
 }
 #testalert:hover {
   border-color: rgb(20, 20, 20);
-  border: 3px;
+  border-width: 3px;
   color: rgb(20, 20, 20);
 }
 #testalert a {
-  color: black;
+  color: "#DD6B55";
   font-weight: bold;
 }
