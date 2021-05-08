@@ -20,21 +20,21 @@ list-style: none;
 }
 
 #testalert {
+  display: block;
   height: 100px;
   width: 100px;
   background-color: rgb(200, 200, 200);
   border-radius:50%;
-  border-width: 2px;
+  border-width: 5px;
   border-color: white;
   color: white;
   text-align: center;
 }
-#testalert:hover {
-  border-color: rgb(20, 20, 20);
-  border-width: 3px;
-  color: rgb(20, 20, 20);
-}
 #testalert a {
-  color: "#DD6B55";
+  padding: auto 0;
+  color: white;
   font-weight: bold;
+}
+#testalert:hover {
+  border-width: 10px;
 }
