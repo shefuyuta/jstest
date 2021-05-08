@@ -1,4 +1,4 @@
-
+$alert("#testalert").text("test");
 
 $("#testalert").click(function(){
   swal({
@@ -8,10 +8,4 @@ $("#testalert").click(function(){
     ConfirmButtonColor: "#DD6B55",
     icon: "success"
   });
-});
-
-
-
-$("testalert").on("click", function(){
-  alert("Can you see this?");
 });
