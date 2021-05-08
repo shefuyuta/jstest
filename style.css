@@ -11,3 +11,16 @@ text-decoration: none;
 display: inline;
 list-style: none;
 }
+
+#testalert {
+  background-color: rgb(200, 200, 200);
+  border-radius:50%;
+  border: 2px;
+  border-color: white;
+  color: white;
+}
+#testalert:hover {
+  border-color: black;
+  border: 3px;
+  color: black;
+}
