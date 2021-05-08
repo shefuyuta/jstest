@@ -1,7 +1,7 @@
 
 $("#testalert").click(function(){
   swal({
-    title: "test alert is generated",
+    title: "test alert",
     text: "Can you see this?",
     confirmButtonText: "Yep.",
     ConfirmButtonColor: "#DD6B55",
