@@ -8,7 +8,7 @@ a{text-decoration: none;}
 
 .container{
   min-height: 80%;
-  padding-left: 5%;
+  padding-left: 3%;
 }
 
 .mainmenuunderline{
@@ -44,8 +44,7 @@ padding-left: 0;
   color: white;
 }
 .title {
-
-  height: 100%;
+  min-height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
