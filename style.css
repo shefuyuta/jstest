@@ -8,7 +8,7 @@ a{text-decoration: none;}
 
 .container{
   min-height: 80%;
-  padding-left: 5%;
+  padding-left: 10%;
   display: flex;
   flex-direction: column;
   justify-content: center;
