@@ -43,6 +43,8 @@ padding-left: 0;
   color: white;
 }
 .title {
+  padding-left: 10%;
+  height: inherit;
   display: flex;
   flex-direction: column;
   justify-content: center;
