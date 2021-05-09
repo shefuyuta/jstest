@@ -9,6 +9,9 @@ a{text-decoration: none;}
 .container{
   min-height: 80%;
   padding-left: 3%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .mainmenuunderline{
@@ -44,10 +47,6 @@ padding-left: 0;
   color: white;
 }
 .title {
-  margin: auto 0;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
   color: white;
 }
 
